@@ -13,7 +13,7 @@ Run in terminal: flutter pub add select_body_parts , or add select_body_parts:0.
 
 ![alt text](Screenshot_1729972905.png) ![alt text](Screenshot_1729972946.png)
 
-Package has BodyPartProvider class which developers can access selected body parts. Also front and back body parts are seperated to sake of modularity. 
+Package has BodyPartProvider class where selected body parts can be reached by their name. Also front and back body parts widgets are seperated sake of modularity. 
 
 
 
